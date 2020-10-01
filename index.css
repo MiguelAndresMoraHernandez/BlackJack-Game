@@ -1,0 +1,13 @@
+body
+{
+    background-color: darkolivegreen;
+    font-family: 'Sansita Swashed', cursive; 
+    font-weight: bold;
+}
+
+.titles
+{
+    font-size: 50px;
+    margin-bottom: 0px; 
+    text-align: center;
+}
