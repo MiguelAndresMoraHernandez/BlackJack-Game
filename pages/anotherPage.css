@@ -1,0 +1,32 @@
+.principalContainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: rgb(50, 73, 4);
+}
+
+.scoreBar {
+    flex: 11;
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: teal;
+    text-align: center;
+}
+
+.photoSquare {
+    flex: 1;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 148, 240);
+}
+
+.photoCircle {
+    border-radius: 100px;
+    width: 75%;
+    height: 100%;
+    background-color: wheat;
+}
